@@ -25,15 +25,6 @@
 
 ## 💫 `01` — About Me
 
-```text
-╭──────────────────────────────────────────────╮
-│  NAME       Gaurav Eknath Kumbhar             │
-│  EDUCATION  MCA Student                       │
-│  INTERESTS  Data Science • AI • Analytics     │
-│  MINDSET    Learn • Build • Improve           │
-╰──────────────────────────────────────────────╯
-```
-
 Hey there! 👋 Welcome to my GitHub universe.
 
 I'm **Gaurav Kumbhar**, an MCA student passionate about technology, data, and building practical solutions. I'm developing my skills by experimenting with code, exploring datasets, and turning ideas into projects.
@@ -48,7 +39,7 @@ I believe that every project is an opportunity to learn something new, solve a p
 * 🛠️ Building practical projects and documenting my progress
 * 🤝 Open to learning, collaboration, and knowledge sharing
 
-> **My vision:** Transform data into insights and ideas into useful technology.
+
 
 ---
 
