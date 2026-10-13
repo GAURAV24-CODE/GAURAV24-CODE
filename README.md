@@ -1,198 +1,256 @@
-<!-- ============== PROFILE HEADER ============== -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:0F172A,75:312E81,100:164E63&text=GAURAV%20KUMBHAR&fontSize=44&fontColor=E2E8F0&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20PYTHON%20%7C%20AI%2FML&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated dark tech banner"/>
 
-# 👋 Hey, I'm Gaurav Kumbhar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Data+Analytics;Exploring+Artificial+Intelligence;Turning+Data+into+Meaningful+Insights;Build.+Learn.+Innovate.+Repeat." alt="Animated introduction"/>
 
-### 📊 Aspiring Data Scientist | 🐍 Python Developer | 🤖 AI/ML Enthusiast
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+Projects+That+Solve+Problems;Learning+%7C+Building+%7C+Growing;Exploring+AI%2C+ML+%26+Analytics" alt="Typing introduction"/>
-</p>
+<a href="https://github.com/GAURAV24-CODE">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<p>
-  <a href="https://github.com/GAURAV24-CODE">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Data_Analytics-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/FOCUS-DATA_ANALYTICS-111827?style=flat-square&labelColor=020617" alt="Data analytics"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%2FML-312E81?style=flat-square&labelColor=020617" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/BUILDING-PYTHON%20%26%20SQL-164E63?style=flat-square&labelColor=020617" alt="Python and SQL"/>
 
 </div>
 
 ---
 
-## 💡 About Me
+## 💫 `01` — About Me
 
-Hey there! I'm **Gaurav Eknath Kumbhar**, an MCA student passionate about technology, data, and solving real-world problems.
+```text
+╭──────────────────────────────────────────────╮
+│  NAME       Gaurav Eknath Kumbhar             │
+│  EDUCATION  MCA Student                       │
+│  INTERESTS  Data Science • AI • Analytics     │
+│  MINDSET    Learn • Build • Improve           │
+╰──────────────────────────────────────────────╯
+```
 
-I believe the best way to learn technology is by building projects, experimenting with ideas, and sharing what I learn.
+Hey there! 👋 Welcome to my GitHub universe.
 
-I'm developing my skills in data analytics, Python, SQL, and machine learning while building a portfolio that reflects my progress and practical knowledge.
+I'm **Gaurav Kumbhar**, an MCA student passionate about technology, data, and building practical solutions. I'm developing my skills by experimenting with code, exploring datasets, and turning ideas into projects.
 
-* 📊 Exploring data analytics and business intelligence
-* 🐍 Strengthening my Python programming skills
-* 🗄️ Practicing SQL and database management
-* 🤖 Learning machine learning and AI concepts
-* 📈 Exploring data visualization and Power BI
-* 🛠️ Building projects and documenting my journey
-* 🤝 Open to collaborating with students and developers
+I believe that every project is an opportunity to learn something new, solve a problem, and become a better developer.
 
-**My mission:** Learn by building, solve problems with data, and grow into a skilled data professional.
+* 🔍 Exploring data patterns and meaningful insights
+* 🐍 Developing my Python programming skills
+* 🗄️ Practising SQL and database management
+* 🤖 Exploring machine learning and AI concepts
+* 📊 Learning data visualization and business intelligence
+* 🛠️ Building practical projects and documenting my progress
+* 🤝 Open to learning, collaboration, and knowledge sharing
+
+> **My vision:** Transform data into insights and ideas into useful technology.
 
 ---
 
-## 🧰 My Tech Toolkit
+## ⚡ `02` — My Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming & Databases
+### 💻 Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode" alt="Programming and developer tools"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Programming tools"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="Database tools"/>
 
 ### 📊 Data Analytics & Visualization
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power_BI-0B1120?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-0B1120?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
+<img src="https://img.shields.io/badge/Jupyter-0B1120?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
 
-### 🤖 AI, Machine Learning & Notebooks
+### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Google_Colab-0B1120?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
 
 </div>
 
-*This toolkit represents my learning and areas of interest. I continue to develop my proficiency through hands-on practice.*
+*My toolkit reflects the technologies I use or am learning. I'm focused on strengthening my skills through practical experience.*
 
 ---
 
-## 🚀 Projects I'm Building
+## 🚀 `03` — Featured Projects
 
-### 💳 01 — FinTech Credit Risk Analytics
+<div align="center">
+
+### 💳 FinTech Credit Risk Analytics
 
 **Turning financial data into useful insights.**
 
-An analytics project exploring credit risk using data analysis and database tools.
+</div>
 
-* 📊 Explore patterns in financial data
-* 🐍 Work with Python-based analysis
-* 🗄️ Practice SQL and SQLite
-* 📈 Connect analysis with Power BI reporting
+Exploring credit-risk analysis through data exploration, database queries, and visualization.
 
-**Tech:** Python · SQL · SQLite · Power BI
+| Focus            | Description                               |
+| ---------------- | ----------------------------------------- |
+| 🐍 Python        | Data analysis and exploration             |
+| 🗄️ SQL / SQLite | Querying and working with structured data |
+| 📊 Power BI      | Visualizing findings and patterns         |
 
-🔗 **[Explore the project →](https://github.com/GAURAV24-CODE/FinTech-Credit-Risk-Analytics)**
+<div align="center">
+
+<a href="https://github.com/GAURAV24-CODE/FinTech-Credit-Risk-Analytics">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617" alt="View FinTech project"/>
+</a>
+
+</div>
 
 ---
 
-### 🧠 02 — AI/ML Engineer Bootcamp
+<div align="center">
 
-**Learning AI and machine learning through practice.**
+### 🤖 AI/ML Engineer Bootcamp
 
-A hands-on learning repository for developing foundational AI/ML knowledge and exploring practical coding exercises.
+**Learning artificial intelligence through practice.**
 
-* 🤖 Explore machine learning concepts
-* 📊 Practice working with data
-* 📓 Organize learning through notebooks
-* 🧮 Build a stronger technical foundation
+</div>
+
+A structured learning journey covering foundational AI/ML concepts and practical exercises.
+
+* 🧠 Explore machine learning fundamentals
+* 📊 Practise data analysis concepts
+* 📓 Organize experiments and notebooks
+* 🧮 Develop problem-solving skills
 
 **Tech:** Python · Jupyter Notebook
 
-🔗 **[Explore the project →](https://github.com/GAURAV24-CODE/AI-ML-Engineer-Bootcamp)**
+<div align="center">
+
+<a href="https://github.com/GAURAV24-CODE/AI-ML-Engineer-Bootcamp">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=020617" alt="View AI ML project"/>
+</a>
+
+</div>
 
 ---
 
-### 🗄️ 03 — SQL Advance
+<div align="center">
 
-**From SQL fundamentals to stronger query-writing skills.**
+### 🗄️ SQL Advance
 
-A repository for practicing SQL concepts and developing database querying skills.
+**Building stronger database and query-writing skills.**
 
-* 🔍 Practice SQL queries
+</div>
+
+A practical repository for improving SQL fundamentals through queries and exercises.
+
+* 🔍 Practise writing SQL queries
 * 🧩 Understand database concepts
-* 💻 Improve problem-solving through exercises
+* 💻 Develop logical thinking through exercises
 
 **Tech:** SQL · Database Queries
 
-🔗 **[Explore the project →](https://github.com/GAURAV24-CODE/Sql_Advance)**
-
----
-
-### 💼 04 — My Personal Portfolio
-
-**A home for my work, skills, and developer journey.**
-
-A personal portfolio project showcasing my development and the projects I create.
-
-🔗 **[Explore the project →](https://github.com/GAURAV24-CODE/Portfolio_GK)**
-
----
-
 <div align="center">
 
-### 🔎 More to Explore
-
-**[View All My Repositories →](https://github.com/GAURAV24-CODE?tab=repositories)**
+<a href="https://github.com/GAURAV24-CODE/Sql_Advance">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=020617" alt="View SQL project"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 My GitHub Journey
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GAURAV24-CODE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+### 💼 Portfolio GK
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV24-CODE&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+**Showcasing my skills, projects, and progress.**
+
+A personal portfolio project representing my journey as a developer.
+
+<a href="https://github.com/GAURAV24-CODE/Portfolio_GK">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO- A78BFA?style=for-the-badge&logo=github" alt="View portfolio project"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=GAURAV24-CODE&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<a href="https://github.com/GAURAV24-CODE?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="All repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
-
-* 📚 Building strong Python and SQL fundamentals
-* 📊 Creating meaningful data analytics projects
-* 🤖 Understanding machine learning algorithms
-* 💻 Improving problem-solving and coding skills
-* 🛠️ Making my projects easier to use and understand
-* 🌱 Learning consistently and contributing to the developer community
-
----
-
-## 🤝 Let's Connect & Build Together
-
-I'm always interested in learning from other developers, collaborating with students, and exchanging ideas about data, Python, and AI.
+## 📈 `04` — GitHub Analytics
 
 <div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=GAURAV24-CODE&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV24-CODE&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=GAURAV24-CODE&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🌌 `05` — Contribution Universe
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV24-CODE&bg_color=020617&color=C4B5FD&line=38BDF8&point=E2E8F0&area=true&hide_border=true" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 🎯 `06` — Current Mission
+
+```text
+[01]  Strengthen Python and SQL fundamentals
+[02]  Build practical end-to-end analytics projects
+[03]  Improve data visualization and dashboard design
+[04]  Learn machine learning algorithms
+[05]  Write clean, understandable, documented code
+[06]  Collaborate with developers and students
+```
+
+**One step at a time. One project at a time. Continuous improvement.**
+
+---
+
+## 🤝 `07` — Let's Connect
+
+<div align="center">
+
+I'm always happy to connect with people who enjoy learning, building projects, and exploring technology.
+
+**Have an idea? Working on a project? Let's learn together!**
+
+<br/>
+
 <a href="https://github.com/GAURAV24-CODE">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-FOLLOW_MY_JOURNEY-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**Thanks for stopping by! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:164E63,45:312E81,100:020617" width="100%" alt="Dark animated footer"/>
 
-*Stay curious. Keep building. Make every project count.*
+### ⭐ THANKS FOR VISITING ⭐
+
+**Stay Curious. Keep Building. Make Progress.**
 
 </div>
