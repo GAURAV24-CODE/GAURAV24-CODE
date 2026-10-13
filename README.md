@@ -1,164 +1,231 @@
-<!-- ================= PROFILE HEADER ================= -->
+::: {align="center"}
+```{=html}
+<!-- DARK ANIMATED PROFILE HEADER -->
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:111827,100:312e81&text=GAURAV%20KUMBHAR&fontColor=E2E8F0&fontSize=42&fontAlignY=38&desc=DATA%20%7C%20PYTHON%20%7C%20AI%2FML&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Dark animated profile banner"/>`{=html}
 
-<div align="center">
+`<a href="https://github.com/GAURAV24-CODE">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
 
-# 👋 Hi, I'm Gaurav Kumbhar
+`<br/>`{=html}
 
-### 📊 Data Analytics | 🤖 AI & Machine Learning | 💻 Python & SQL
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Aspiring+Data+Professional;Turning+Data+into+Insights;Learning+Python+%7C+SQL+%7C+AI%2FML;Build.+Learn.+Improve.+Repeat." alt="Animated typing introduction"/>`{=html}
 
+```{=html}
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MCA+Student+%7C+Data+Science+Enthusiast;Turning+Data+into+Insights;Learning+%7C+Building+%7C+Improving" alt="Typing introduction" />
+```
+`<img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-0F172A?style=flat-square&labelColor=020617" alt="Data analytics"/>`{=html}
+`<img src="https://img.shields.io/badge/EXPLORING-AI%20%26%20ML-312E81?style=flat-square&labelColor=020617" alt="AI and ML"/>`{=html}
+`<img src="https://img.shields.io/badge/BUILDING-PYTHON%20%26%20SQL-164E63?style=flat-square&labelColor=020617" alt="Python and SQL"/>`{=html}
+```{=html}
 </p>
+```
+:::
 
-<p>
-  <a href="https://github.com/GAURAV24-CODE">
-    <img src="https://img.shields.io/badge/GitHub-GAURAV24--CODE-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+------------------------------------------------------------------------
 
-</div>
+## `01`   About Me
 
----
+``` text
+Name       : Gaurav Eknath Kumbhar
+Role       : MCA Student | Aspiring Data Professional
+Interests  : Data Analytics, Python, SQL, AI/ML
+Mindset    : Learn by building. Improve through feedback.
+```
 
-## 🙋‍♂️ About Me
+Hey! I enjoy exploring data, solving problems, and turning what I learn
+into practical projects. This GitHub is my workspace for experiments,
+notebooks, analytics projects, and continuous improvement.
 
-Hi! I'm **Gaurav Eknath Kumbhar**, an MCA student at SSBT College of Engineering, Jalgaon, with a strong interest in Data Analytics, Data Science, and AI/ML.
+-   📊 Exploring data analytics and business intelligence
+-   🐍 Practising Python and data analysis
+-   🗄️ Improving SQL and database skills
+-   🤖 Learning machine learning concepts
+-   📈 Exploring dashboards and data visualization
+-   🤝 Interested in collaborating with students and developers
 
-I'm focused on developing practical skills by working on projects, learning new technologies, solving problems, and documenting my progress on GitHub.
+> **My goal:** Build useful projects, explain my process clearly, and
+> keep growing as a data professional.
 
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🤖 Learning Machine Learning and AI concepts
-- 🐍 Working with Python and data analysis libraries
-- 🗄️ Practicing SQL and PostgreSQL
-- 📈 Exploring Power BI, Excel, and data visualization
-- 🧠 Improving problem-solving and technical interview skills
-- 🚀 Building projects and sharing my learning journey
+------------------------------------------------------------------------
 
-**My goal:** Turn data into meaningful insights and build practical AI/ML solutions.
+## `02`   Tech Stack
 
----
+::: {align="center"}
+### Languages & Developer Tools
 
-## 🛠️ Tech Stack & Tools
+`<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode&theme=dark" alt="Python, SQL and developer tools"/>`{=html}
 
-### 💻 Programming Languages
+### Data Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+`<img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>`{=html}
+`<img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>`{=html}
+`<img src="https://img.shields.io/badge/Power%20BI-0B1120?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>`{=html}
+`<img src="https://img.shields.io/badge/Excel-0B1120?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>`{=html}
+`<img src="https://img.shields.io/badge/Jupyter-0B1120?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>`{=html}
 
-### 📊 Data Analytics & Visualization
+### Machine Learning --- currently learning
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
+`<img src="https://img.shields.io/badge/Scikit--learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>`{=html}
+`<img src="https://img.shields.io/badge/Google%20Colab-0B1120?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>`{=html}
+:::
 
-### 🤖 Machine Learning
+*I list technologies I use or am actively learning; proficiency grows
+through hands-on practice.*
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
+------------------------------------------------------------------------
 
-### 🗄️ Databases & Developer Tools
+## `03`   Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 💳 FinTech Credit Risk Analytics
 
----
+A project exploring credit-risk data through analytics and database
+tools.
 
-## 🚀 Featured Projects
+**Focus areas** - Data exploration and analysis - SQL and SQLite
+queries - Credit-risk patterns - Power BI reporting
 
-### 1. 💳 FinTech Credit Risk Project
+**Stack:** Python · SQL · SQLite · Power BI
 
-Exploring machine learning and data-driven approaches to credit risk analysis.
+[↗ Open
+repository](https://github.com/GAURAV24-CODE/FinTech-Credit-Risk-Analytics)
 
-🔗 [View my GitHub repositories](https://github.com/GAURAV24-CODE?tab=repositories)
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🤖 AI/ML Engineer Bootcamp
 
-### 2. 🗄️ SQL Interview Mastery
+A practical learning repository for AI/ML foundations and notebook-based
+exercises.
 
-A structured SQL learning repository focused on SQL concepts, queries, and interview preparation using PostgreSQL.
+**Focus areas** - Python-based learning - Data analysis concepts -
+Machine learning foundations - Organized notebooks
 
-🔗 [SQL-Interview-Mastery](https://github.com/GAURAV24-CODE/SQL-Interview-Mastery)
+**Stack:** Python · Jupyter Notebook
 
-### 3. 🤖 AI/ML Engineer Bootcamp
+[↗ Open
+repository](https://github.com/GAURAV24-CODE/AI-ML-Engineer-Bootcamp)
 
-My structured AI/ML learning journey, covering data analysis, statistics, visualization, feature engineering, and machine learning concepts.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🗄️ SQL Advance
 
-🔗 [AI-ML-Engineer-Bootcamp](https://github.com/GAURAV24-CODE/AI-ML-Engineer-Bootcamp)
+A hands-on repository for practising SQL queries and strengthening
+database fundamentals.
 
-> Explore my repositories for more projects, notebooks, practice work, and learning resources.
+**Focus areas** - Query-writing practice - Database concepts - SQL
+problem solving
 
----
+**Stack:** SQL · Database queries
 
-## 📈 GitHub Statistics
+[↗ Open repository](https://github.com/GAURAV24-CODE/Sql_Advance)
 
-<div align="center">
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 💼 Portfolio GK
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GAURAV24-CODE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+My personal portfolio project and a place to present my development
+journey.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV24-CODE&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+**Focus areas** - Presenting projects - Organizing professional work -
+Sharing my progress
 
-<br/>
+[↗ Open repository](https://github.com/GAURAV24-CODE/Portfolio_GK)
 
-<img src="https://streak-stats.demolab.com?user=GAURAV24-CODE&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+::: {align="center"}
+`<a href="https://github.com/GAURAV24-CODE?tab=repositories">`{=html}
+`<img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View all repositories"/>`{=html}
+`</a>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## `04`   GitHub Dashboard
 
-## 🐍 Contribution Activity
+::: {align="center"}
+`<img height="175" src="https://github-readme-stats.vercel.app/api?username=GAURAV24-CODE&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="GitHub stats"/>`{=html}
 
-<div align="center">
+`<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV24-CODE&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>`{=html}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV24-CODE&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+`<img width="80%" src="https://streak-stats.demolab.com?user=GAURAV24-CODE&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub contribution streak"/>`{=html}
 
----
+`<br/>`{=html}`<br/>`{=html}
 
-## 🎯 Currently Focused On
+`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV24-CODE&bg_color=020617&color=C4B5FD&line=38BDF8&point=E2E8F0&area=true&hide_border=true" alt="GitHub contribution activity graph"/>`{=html}
+:::
 
-- 📚 Strengthening Python and SQL fundamentals
-- 📊 Improving data analysis and visualization skills
-- 🤖 Learning machine learning algorithms
-- 🧮 Practicing coding and technical interview problems
-- 🛠️ Building practical portfolio projects
-- 📖 Maintaining my learning repositories
+------------------------------------------------------------------------
 
----
+## `05`   Current Mission
 
-## 🤝 Connect With Me
+-   [ ] Strengthen Python and SQL fundamentals
+-   [ ] Build end-to-end analytics projects
+-   [ ] Practise data visualization and dashboard design
+-   [ ] Learn and evaluate machine learning models
+-   [ ] Improve project documentation and code quality
+-   [ ] Collaborate, share knowledge, and learn from feedback
 
-<div align="center">
+------------------------------------------------------------------------
 
-<a href="https://github.com/GAURAV24-CODE">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+## `06`   Let's Connect
 
-<a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+::: {align="center"}
+If you're learning data, building projects, or exploring AI/ML too,
+let's connect and learn from each other.
 
-<br/><br/>
+`<a href="https://github.com/GAURAV24-CODE">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-0B1120?style=for-the-badge&logo=github" alt="GitHub profile"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/gaurav-kumbhar-0b4a39293">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>`{=html}
+`</a>`{=html}
 
-**Thanks for visiting my profile!** ⭐
+`<br/>`{=html}`<br/>`{=html}
 
-*Learn continuously. Build consistently. Improve every day.*
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:312e81,55:111827,100:020617" width="100%" alt="Dark footer banner"/>`{=html}
 
-</div>
+**Thanks for visiting ⭐**
+
+`Stay curious • Keep building • Make progress`
+:::
