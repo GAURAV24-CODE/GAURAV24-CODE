@@ -159,7 +159,7 @@ A practical repository for improving SQL fundamentals through queries and exerci
 
 ### 💼 Portfolio GK
 
-**Showcasing my skills, projects, and progress.**
+**Showcasing my skills, projects, and progress.*
 
 A personal portfolio project representing my journey as a developer.
 
