@@ -27,7 +27,7 @@
 
 Hey there! 👋 Welcome to my GitHub universe.
 
-I'm **Gaurav Kumbhar**, an MCA student passionate about technology, data, and building practical solutions. I'm developing my skills by experimenting with code, exploring datasets, and turning ideas into projects.
+I'm **Gaurav Kumbhar**, an MCA student passionate about technology, data, and building practical solutions. I'm developing my skills by experimenting with code, exploring dataset, and turning ideas into projects.
 
 I believe that every project is an opportunity to learn something new, solve a problem, and become a better developer.
 
