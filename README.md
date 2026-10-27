@@ -55,7 +55,7 @@ I believe that every project is an opportunity to learn something new, solve a p
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" alt="Database tools"/>
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics & Visualizations
 
 <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
