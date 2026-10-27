@@ -25,7 +25,7 @@
 
 ## 💫 `01` — About Me
 
-Hey there! 👋 Welcome to my GitHub universe.
+Hey there! 👋 Welcome to my GitHub univers
 
 I'm **Gaurav Kumbhar**, an MCA student passionate about technology, data, and building practical solutions. I'm developing my skills by experimenting with code, exploring dataset, and turning ideas into projects.
 
