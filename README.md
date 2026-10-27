@@ -74,7 +74,7 @@ I believe that every project is an opportunity to learn something new, solve a p
 
 ---
 
-## 🚀 `03` — Featured Projects
+## 🚀 `03` — Featured Project
 
 <div align="center">
 
