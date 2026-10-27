@@ -224,7 +224,7 @@ A personal portfolio project representing my journey as a developer.
 
 I'm always happy to connect with people who enjoy learning, building projects, and exploring technology.
 
-**Have an idea? Working on a project? Let's learn together!**
+**Have an idea? Working on a project? Let's learn togethe**
 
 <br/>
 
