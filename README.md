@@ -1,297 +1,220 @@
-
-# 🚀 Gaurav Kumbhar | Data Analytics & AI/ML
+ 
+<!-- ===================================================== -->
+<!--                GAURAV KUMBHAR README                  -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F172A,70:312E81,100:0891B2&text=GAURAV%20KUMBHAR&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20PYTHON%20%7C%20AI%2FML&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Gaurav Kumbhar GitHub banner"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B1B,50:4A102A,100:800F2F&height=220&section=header&text=GAURAV%20KUMBHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20PYTHON%20%7C%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Gaurav Kumbhar animated GitHub banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Power+BI;Exploring+Machine+Learning+%26+AI;Turning+Data+into+Meaningful+Insights;Learning.+Building.+Innovating." alt="Animated introduction"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B3158&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+%26+SQL+Enthusiast;Power+BI+%26+Business+Intelligence;Data+Science+%7C+Machine+Learning;Turning+Data+into+Insights" alt="Typing SVG"/>
+</a>
 
 <br/>
 
 <a href="https://github.com/GAURAV24-CODE">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-GAURAV24--CODE-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/gauravkumbhar24/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:kumbhargaurav24@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Data_Analytics-0F172A?style=flat-square&labelColor=020617" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/EXPLORING-Machine_Learning-312E81?style=flat-square&labelColor=020617" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/BUILDING-Python_%26_SQL-164E63?style=flat-square&labelColor=020617" alt="Python and SQL"/>
+**Building practical solutions with Data Analytics, Python, and AI/ML.**
 
 </div>
 
 ---
 
-## 👨‍💻 1. Introduction | About Me
+## 👨‍💻 About Me
 
-Hello! 👋 I'm **Gaurav Kumbhar**, an MCA student at SSBT's College of Engineering and Technology, Jalgaon, with a background in Computer Applications and AI & Data Science.
+Hello! I'm **Gaurav Kumbhar**, an MCA student and aspiring Data Analyst with a strong interest in Data Science, Business Intelligence, Python development, and Artificial Intelligence.
 
-I'm passionate about data analytics, programming, artificial intelligence, and machine learning.
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning applications, and solving real-world problems through technology.
 
-I enjoy transforming raw data into meaningful insights, developing Python applications, exploring machine learning algorithms, and building practical solutions.
-
-I believe in continuous learning, hands-on practice, and improving my technical skills through real-world projects.
-
-### A little about my journey
-
+- 🎓 Pursuing **Master of Computer Applications (MCA)**.
 - 📊 Interested in Data Analytics and Business Intelligence.
-- 🐍 Working with Python for programming and data analysis.
-- 🗄️ Practicing SQL and PostgreSQL for database management.
-- 📈 Exploring Power BI, DAX, and data visualization.
-- 🤖 Learning machine learning and AI concepts.
-- 💻 Building practical applications and documenting my learning.
-- 🎯 Preparing for opportunities in analytics and AI/ML.
+- 🐍 Working with Python, SQL, and data analysis libraries.
+- 📈 Building interactive dashboards using Power BI.
+- 🤖 Exploring Machine Learning, AI, and predictive analytics.
+- 💡 Improving my technical and problem-solving skills through practical projects.
 
 ---
 
-## 🎯 2. Career Focus
+## 🎯 Career Focus
 
-I'm continuously developing my technical and analytical skills with the goal of starting my professional career in technology.
+I am interested in entry-level and internship opportunities in:
 
-| Career Area | Areas of Interest |
+| Career Area | Focus |
 |---|---|
 | 📊 Data Analytics | Data cleaning, EDA, reporting, insights |
-| 📈 Business Intelligence | Power BI, DAX, Power Query, dashboards |
-| 🐍 Python Development | Python programming, automation, applications |
-| 🤖 Data Science | Statistics, feature engineering, predictive modeling |
-| 🧠 AI & Machine Learning | ML algorithms, model evaluation, AI applications |
-| 🗄️ Database Analytics | SQL, PostgreSQL, MySQL, data querying |
+| 📈 Business Intelligence | Power BI, DAX, dashboards, KPI reporting |
+| 🤖 Data Science | Machine Learning, statistics, predictive modeling |
+| 🐍 Python Development | Python programming, automation, APIs |
+| 🧠 AI / ML | Model development, evaluation, AI applications |
 
-**Career interests:** Junior Data Analyst · Data Analyst · BI Analyst · Data Scientist · Junior Python Developer · Junior AI/ML Engineer
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN_TO-Internships-16A34A?style=for-the-badge" alt="Open to internships"/>
-<img src="https://img.shields.io/badge/OPEN_TO-Entry_Level_Roles-0891B2?style=for-the-badge" alt="Open to entry level roles"/>
-<img src="https://img.shields.io/badge/OPEN_TO-Collaboration-7C3AED?style=for-the-badge" alt="Open to collaboration"/>
-
-</div>
+**Open to:** Fresher roles, internships, trainee positions, and entry-level opportunities.
 
 ---
 
-## 🛠️ 3. Technical Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming & Development
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Programming skills"/>
+</p>
 
-<div align="center">
+### Data Analytics & Visualization
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css&theme=dark" alt="Programming and development skills"/>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+</p>
 
-</div>
+### AI, Machine Learning & Development
 
-### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-<div align="center">
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite&theme=dark" alt="Database technologies"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,anaconda,jupyter" alt="Development tools"/>
+</p>
 
-</div>
-
-### 📊 Data Analytics & Visualization
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Power_BI-0B1120?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-0B1120?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
-<img src="https://img.shields.io/badge/Matplotlib-0B1120?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-0B1120?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Jupyter-0B1120?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
-
-</div>
-
-### 🤖 Machine Learning & AI
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scikit--learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-0B1120?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/Streamlit-0B1120?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Flask-0B1120?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Google_Colab-0B1120?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
-
-</div>
-
-### 🧰 Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,anaconda&theme=dark" alt="Developer tools"/>
-
-</div>
+**Core Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, SQL Queries, DAX, Power Query, ETL, Statistics, Feature Engineering, Model Training, and Model Evaluation.
 
 ---
 
-## 💼 4. Professional Experience
+## 💼 Professional Experience
 
-### Data Scientist Intern — Rubixe, AI Solutions Company
+### Data Scientist Intern — Rubixe
 
-<details>
-<summary><strong>August 2025 – November 2025 | 4 Months</strong></summary>
+**August 2025 – November 2025**
 
-**Internship Experience**
-
-- Worked with Python and SQL for data preparation and analysis.
-- Practiced data cleaning and exploratory data analysis.
-- Developed visualizations to understand data patterns.
-- Explored feature engineering techniques.
-- Learned machine learning model development and evaluation.
-- Strengthened practical understanding of data science workflows.
-
-**Technologies:** Python · SQL · Pandas · Data Analysis · Machine Learning
-
-</details>
+- Worked on practical data science and machine learning tasks.
+- Used Python and SQL for data preparation and analysis.
+- Performed data cleaning and exploratory data analysis.
+- Applied data visualization techniques to understand datasets.
+- Explored feature engineering and machine learning model evaluation.
 
 ---
 
-## 🎓 5. Education
+## 🎓 Education
 
-| Qualification | Institution | Duration |
-|---|---|---|
-| 🎓 MCA | SSBT's College of Engineering and Technology, Bhambhori, Jalgaon | 2025–2027 |
-| 🎓 BCA – AI & Data Science | KCE Society's Moolji Jaitha College, Jalgaon | 2023–2025 |
+### Master of Computer Applications (MCA)
+**SSBT's College of Engineering and Technology, Bhambhori, Jalgaon**
 
-### Academic Highlights
+2025 – 2027
 
-- BCA: 74.13%
-- MCA: 77.92% (latest shared result)
+### Bachelor of Computer Applications (BCA)
+**KCE Society's Moolji Jaitha College, Jalgaon**
+
+Specialization: Artificial Intelligence and Data Science
+
+2023 – 2025
 
 ---
 
-## 📈 6. GitHub Analytics
+## 🚀 Featured Projects
+
+Here are some of my practical projects focused on analytics, machine learning, and application development.
+
+### 1. 🏦 FinTech Credit Risk Analytics
+- Financial data analysis and credit risk insights.
+- Focus on KPIs, reporting, and interactive dashboards.
+- Technologies: Power BI, DAX, Power Query, SQL, Python.
+
+### 2. 📊 Unemployment Analysis in India
+- Analyzed unemployment trends across Indian states.
+- Explored data patterns and visualized key insights.
+- Technologies: Python, Pandas, Streamlit, Data Visualization.
+
+[View GitHub Repository](https://github.com/kumbhargaurav24/Covid-Unemployment-Analysis)
+
+### 3. 🩺 DiaCare – Health Risk Screening Application
+- Machine learning-based health risk screening application.
+- Designed an interface for user inputs and screening results.
+- Technologies: Python, Machine Learning, Flask.
+
+[View GitHub Repository](https://github.com/GAURAV24-CODE/DieCare)
+
+### 4. 🏠 House Price Prediction
+- Machine learning project for predicting house prices.
+- Focus on data preprocessing, model training, and prediction.
+- Technologies: Python, Pandas, Scikit-learn, Machine Learning.
+
+[View GitHub Repository](https://github.com/GAURAV24-CODE/House-Price-Prediction-ML)
+
+### 5. 🚗 Car Price Prediction
+- Predictive machine learning application for estimating car prices.
+- Technologies: Python, Scikit-learn, Streamlit.
+
+[View Live Application](https://mycarspri.streamlit.app/)
+
+### 6. 🌸 Iris Flower Classification
+- Classification of iris flowers using machine learning algorithms.
+- Technologies: Python, Pandas, Scikit-learn.
+
+### 7. 👥 HR Attrition Analytics
+- Analyzing employee attrition patterns and workforce insights.
+- Focus on HR metrics and data visualization.
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Explore my portfolio to learn more about my background, skills, experience, projects, and achievements.
 
 <div align="center">
 
-### GitHub Profile Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GAURAV24-CODE&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" alt="Gaurav's GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV24-CODE&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used programming languages"/>
+<a href="https://gaurav24-code.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-Explore%20Website-800F2F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
+</a>
 
 <br/><br/>
 
-### Contribution Streak
-
-<img width="80%" src="https://streak-stats.demolab.com?user=GAURAV24-CODE&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" alt="GitHub contribution streak"/>
+**[🌍 Open Live Portfolio](https://gaurav24-code.github.io/Portfolio/)**
 
 </div>
 
 ---
 
-## 🐍 7. Animated Contribution Graph
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, data professionals, recruiters, and technology enthusiasts.
 
 <div align="center">
-
-### Watch My Contributions Come to Life!
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GAURAV24-CODE/GAURAV24-CODE/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GAURAV24-CODE/GAURAV24-CODE/output/github-contribution-grid-snake.svg">
-
-  <img
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/GAURAV24-CODE/GAURAV24-CODE/output/github-contribution-grid-snake.svg"
-    width="100%">
-
-</picture>
-
-<br/>
-
-**Every contribution represents another step in my learning journey!**
-
-</div>
-
----
-
-## 🎯 8. Current Learning Goals
-
-I'm continuously working to improve my technical knowledge and become industry-ready.
-
-| Learning Area | Current Goal |
-|---|---|
-| 🐍 Python | Advanced programming and problem-solving |
-| 🗄️ SQL | PostgreSQL, joins, CTEs, window functions |
-| 📊 Power BI | DAX, Power Query, dashboard development |
-| 📈 Data Analytics | EDA, statistics, business insights |
-| 🤖 Machine Learning | Algorithms, feature engineering, evaluation |
-| 🧠 AI & GenAI | AI fundamentals and practical applications |
-| 💻 DSA | Data structures and algorithms using Python |
-| 🛠️ Projects | Building practical, documented applications |
-
-> "The best way to learn is to build something meaningful."
-
----
-
-## 🌐 9. Personal Portfolio Website
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-UNDER_DEVELOPMENT-F59E0B?style=for-the-badge" alt="Portfolio development status"/>
-
-</div>
-
-I'm building a personal portfolio website to showcase my:
-
-- 👨‍💻 Professional introduction and background
-- 🛠️ Technical skills and tools
-- 💼 Internship and experience
-- 🚀 Practical projects and applications
-- 🏆 Achievements and certifications
-- 📩 Contact information
-
-**Explore my portfolio source code:**
-
-<a href="https://github.com/GAURAV24-CODE/gaurav-portfolio">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO_REPOSITORY-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub repository"/>
-</a>
-
-> The live website link will be added here after deployment.
-
----
-
-## 🤝 10. Let's Connect
-
-<div align="center">
-
-I'm always happy to connect with students, developers, recruiters, and technology enthusiasts.
-
-Whether it's discussing data analytics, machine learning, Python, or collaborating on interesting projects, let's connect!
-
-<br/>
 
 <a href="https://github.com/GAURAV24-CODE">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW_MY_JOURNEY-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/gauravkumbhar24/">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:kumbhargaurav24@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Send_Me_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0891B2,45:312E81,100:020617" width="100%" alt="GitHub profile footer"/>
+**Thanks for visiting my GitHub profile!** ⭐
 
-### ⭐ THANKS FOR VISITING ⭐
-
-**Stay Curious. Keep Building. Make Progress.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800F2F,50:4A102A,100:1B1B1B&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
