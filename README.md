@@ -125,7 +125,7 @@ I am interested in entry-level and internship opportunities in:
 ### Bachelor of Computer Applications (BCA)
 **KCE Society's Moolji Jaitha College, Jalgaon**
 
-Specialization: Artificial Intelligence and Data Science
+Specialization: Artificial Intelligence and Data 
 
 2023 – 2025
 
