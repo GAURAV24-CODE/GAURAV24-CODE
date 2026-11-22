@@ -44,7 +44,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 - 🐍 Working with Python, SQL, and data analysis libraries.
 - 📈 Building interactive dashboards using Power BI.
 - 🤖 Exploring Machine Learning, AI, and predictive analytics.
-- 💡 Improving my technical and problem-solving skills through practical .
+- 💡 Improving my technical and problem-solving skills through practice.
 
 ---
 
