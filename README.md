@@ -129,53 +129,7 @@ Specialization: Artificial Intelligence and Data
 
 2023 – 2025
 
----
 
-## 🚀 Featured Projects
-
-Here are some of my practical projects focused on analytics, machine learning, and application development.
-
-### 1. 🏦 FinTech Credit Risk Analytics
-- Financial data analysis and credit risk insights.
-- Focus on KPIs, reporting, and interactive dashboards.
-- Technologies: Power BI, DAX, Power Query, SQL, Python.
-
-### 2. 📊 Unemployment Analysis in India
-- Analyzed unemployment trends across Indian states.
-- Explored data patterns and visualized key insights.
-- Technologies: Python, Pandas, Streamlit, Data Visualization.
-
-[View GitHub Repository](https://github.com/kumbhargaurav24/Covid-Unemployment-Analysis)
-
-### 3. 🩺 DiaCare – Health Risk Screening Application
-- Machine learning-based health risk screening application.
-- Designed an interface for user inputs and screening results.
-- Technologies: Python, Machine Learning, Flask.
-
-[View GitHub Repository](https://github.com/GAURAV24-CODE/DieCare)
-
-### 4. 🏠 House Price Prediction
-- Machine learning project for predicting house prices.
-- Focus on data preprocessing, model training, and prediction.
-- Technologies: Python, Pandas, Scikit-learn, Machine Learning.
-
-[View GitHub Repository](https://github.com/GAURAV24-CODE/House-Price-Prediction-ML)
-
-### 5. 🚗 Car Price Prediction
-- Predictive machine learning application for estimating car prices.
-- Technologies: Python, Scikit-learn, Streamlit.
-
-[View Live Application](https://mycarspri.streamlit.app/)
-
-### 6. 🌸 Iris Flower Classification
-- Classification of iris flowers using machine learning algorithms.
-- Technologies: Python, Pandas, Scikit-learn.
-
-### 7. 👥 HR Attrition Analytics
-- Analyzing employee attrition patterns and workforce insights.
-- Focus on HR metrics and data visualization.
-
----
 
 ## 🌐 Personal Portfolio Website
 
